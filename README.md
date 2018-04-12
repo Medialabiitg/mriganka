@@ -1,2 +1,2 @@
-# medialabiitg.github.io
+# http://medialabiitg.github.io
 Mriganka's personal page
